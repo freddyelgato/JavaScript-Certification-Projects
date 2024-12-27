@@ -53,11 +53,6 @@ Build an app that functions similarly to [Pokémon Search App](https://pokemon-s
     - Add an `img` element with `id="sprite"` and `src` set to Gengar's `front_default` sprite.
     - `#types` contains two inner elements: **GHOST** and **POISON**. Clear previous content between searches.
 
-## Notes
-- Complete the first 13 steps inside the `index.html` file.
-- Fulfill all user stories and pass the tests to complete the project.
-- Add your own personal style for better user experience.
-- **Test Delay:** Wait a few seconds for tests to finish; do not refresh the page prematurely.
 
 ## Happy Coding!
 :D
